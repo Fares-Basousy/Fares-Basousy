@@ -51,7 +51,7 @@ A fully functional e-commerce web app featuring product querying, user authentic
 - **Google OAuth** for user authentication
 - Admin features for managing orders and products
 - **Gift card** features with fraud protection
-- Automated emails for OTP, Newsletters, and Order Confirmations
+- **Automated emails** for OTP, Newsletters, and Order Confirmations
 - Integrated **Paymob** for secure payment services
 - **Global Context** for wishlist and cart sharing across browser and user accounts
 
