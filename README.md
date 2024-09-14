@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Fares El-Basousy
 
-I’m a **Software Engineer** experienced in **Full-Stack Development** and **Cloud Engineering**, with a deep background in **AI** and **Deep Learning**. I specialize in software engineering, but my expertise spans across front-end, back-end, and cloud technologies.
+I’m a **Software Engineer** experienced in **Full-Stack Development** and **Cloud Engineering**, with background in **AI** and **Deep Learning**. I specialize in software engineering, but my expertise spans across front-end, back-end and cloud technologies.
 
 I’m also a **very skilled problem solver**, always aiming to achieve the **best possible optimizations** and **efficient memory utilization** in the solutions I develop.
 
@@ -24,7 +24,6 @@ I’m also a **very skilled problem solver**, always aiming to achieve the **bes
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
-**SEO** (Search Engine Optimization)
 
 ### Databases
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
@@ -37,6 +36,10 @@ I’m also a **very skilled problem solver**, always aiming to achieve the **bes
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
+
+### Other Expertise
+- **API Integrations** (RESTful services)
+- **SEO** (Search Engine Optimization)
 
 ---
 
