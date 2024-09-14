@@ -2,10 +2,7 @@
 
 # 👋 Hi, I'm Fares El-Basousy
 
-I’m a **Software Engineer** experienced in **Full-Stack Development** and **Cloud Engineering**, with background in **AI** and **Deep Learning**. I specialize in software engineering, but my expertise spans across front-end, back-end and cloud technologies.
-
-I’m also a **very skilled problem solver**, always aiming to achieve the **best possible optimizations** and **efficient memory utilization** in the solutions I develop.
-
+I am Fares. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from National Institute of Technology, Patna. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 ---
 
 ## 💻 **Skills**
@@ -72,9 +69,8 @@ A user-friendly **customer management system** that features:
 
 ## 📫 **Contact Me**
 
-- Email: [faresbasousy@gmail.com](mailto:faresbasousy@gmail.com)
-- LinkedIn: [Fares El Basousy](http://www.linkedin.com/in/fares-el-basousy-87424b167)
-
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:faresbasousy@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/fares-el-basousy-87424b167)
 ---
 
 ## 🏆 **Certifications & Badges**
