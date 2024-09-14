@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Fares El-Basousy
 
-I am Fares. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science and engineering from National Institute of Technology, Patna. I am an experienced developer skilled in C++, Java, Android Development, Full Stack Development, Machine learning, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
+I am Fares. I am a Software Engineer with a Bachelor of Computer Engineering. I am an experienced developer skilled in Full Stack Development, MERN, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ As I am involved in a lot of organizational works in college related to clubs, hackathons like IEEE in my college workshops and helped in building many communities from scratch.
 ---
 
 ## 💻 **Skills**
