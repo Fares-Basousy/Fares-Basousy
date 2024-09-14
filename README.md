@@ -1,7 +1,3 @@
-To display icons next to your skills, we can use popular icon sets like **Simple Icons** or **Devicon**, which work well for technologies. Here’s how you can add them next to your skills section.
-
-Here’s an updated README format with skill icons:
-
 ---
 
 # 👋 Hi, I'm Fares El Basousy
