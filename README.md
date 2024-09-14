@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hi, I'm Fares El Basousy
+# 👋 Hi, I'm Fares El-Basousy
 
 I’m a **Software Engineer** experienced in **Full-Stack Development** and **Cloud Engineering**, with a deep background in **AI** and **Deep Learning**. My specialization is in software engineering, but my diverse experience spans both front-end and back-end technologies as well as cloud services.
 
