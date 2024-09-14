@@ -77,7 +77,3 @@ A user-friendly **customer management system** that features:
 - **AWS Academy Graduate** - [AWS Academy Cloud Foundations](https://www.credly.com/badges/4bfb97ad-e9b9-4c64-9af8-5e5fad0382fc/linked_in?t=sj18gt)
 
 ---
-
-
-
-You can copy and paste this into your `README.md`, and GitHub will render these icons nicely. Let me know if you'd like any further tweaks!
