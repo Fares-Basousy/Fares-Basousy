@@ -42,7 +42,7 @@ I am Fares. I am a Software Engineer with a Bachelor of Computer Engineering. I 
 
 ## 🚀 **Projects**
 
-### [Arlend](https://arlend.net) (Lead Developer) - Dec 2023-Present
+### [Arlend](https://arlend.net) (Lead Developer) - Dec 2023-Jun 2024
 A fully functional e-commerce web app featuring product querying, user authentication, and payment integration. Highlights include:
 - Product filtering with **MongoDB**
 - **Google OAuth** for user authentication
