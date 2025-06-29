@@ -75,8 +75,25 @@ A user-friendly **customer management system** that features:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/fares-el-basousy-87424b167)
 ---
 
-## 🏆 **Certifications & Badges**
-
-- **AWS Academy Graduate** - [AWS Academy Cloud Foundations](https://www.credly.com/badges/4bfb97ad-e9b9-4c64-9af8-5e5fad0382fc/linked_in?t=sj18gt)
+### 🏆 **Professional Certifications**
+- 🏅 **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/541537db-4498-4141-b62f-b214778c12ef/public_url)**  
+  *Validated expertise in designing and deploying scalable, highly available systems on AWS.*
 
 ---
+
+### 📚 **AWS Academy Certifications**
+
+- 🏗️ **[AWS Academy Cloud Architecting](https://www.credly.com/badges/664cea6f-9ecc-48d9-88e4-53ae85733048/public_url)**  
+  *A deep dive look into AWS services with sandbox exercises and architectural patterns, featuring real-world study cases and practical design scenarios.*
+
+- 🔐 **[AWS Academy Cloud Security Builder](https://www.credly.com/badges/0a41abae-c7d4-4a31-8237-260270c60ba2/public_url)**  
+  *Apply AWS security best practices on a deployed Application.*
+
+- 🌐 **[AWS Academy Cloud Web Application Builder](https://www.credly.com/badges/37fa2fbd-64db-44ec-96cd-faacdb95e315/public_url)**  
+  *Deploy scalable and highly available application with automated failover using AWS Well-Architected Framework.*
+
+- 🔒 **[AWS Academy Cloud Security Foundations](https://www.credly.com/badges/45a3da15-d8e3-4136-abb6-d4bd61afefb7/public_url)**  
+  *A detailed overview to cloud security principles including IAM and data protection.*
+
+- ☁️ **[AWS Academy Cloud Foundations](https://www.credly.com/badges/4bfb97ad-e9b9-4c64-9af8-5e5fad0382fc/linked_in?t=sj18gt)**  
+  *Foundational knowledge of core AWS services and the AWS global infrastructure.*
