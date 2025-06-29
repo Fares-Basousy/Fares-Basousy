@@ -44,7 +44,8 @@ I’m passionate about writing clean, efficient code and continuously learning n
 
 ## 🚀 **Projects**
 
-### [Arlend](https://arlend.net) (Lead Developer) - Dec 2023-Jun 2024
+### Arlend (Lead Developer) - Dec 2023-Jun 2024 - **Currently on hold** (paused for an upgrade as per CEO's direction)
+
 A fully functional e-commerce web app featuring product querying, user authentication, and payment integration. Highlights include:
 - Product filtering with **MongoDB**
 - **Google OAuth** for user authentication
