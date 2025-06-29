@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm Fares El-Basousy
 
-I am Fares. I am a Software Engineer with a Bachelor of Computer Engineering. I am an experienced Engineer skilled in Software Engineering, Full Stack Development, MERN, Typescript and its frameworks. My activities are much beyond my stream of education. ⚡ As I am involved in a lot of organizational works in college related to clubs (IEEE) and competions like ICPC , technincal workshops and helped in building many communities from scratch along with various hackathons.
+I’m a Software Engineer with a Bachelor’s degree in Computer Engineering. I specialize in Full Stack Development, working mainly with the MERN stack, TypeScript, and related frameworks.
+Beyond academics, I’ve always enjoyed getting involved in tech communities and collaborative projects. During college, I was actively engaged in student clubs like IEEE, took part in competitions like ICPC, and contributed to organizing technical workshops. I also had the chance to help build and grow developer communities from the ground up, and participated in several hackathons along the way.
+I’m passionate about writing clean, efficient code and continuously learning new things — both through projects and from the people around me.
 ---
 
 ## 💻 **Skills**
