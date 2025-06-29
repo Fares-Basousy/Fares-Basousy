@@ -84,7 +84,7 @@ A user-friendly **customer management system** that features:
 ### 📚 **AWS Academy Certifications**
 
 - 🏗️ **[AWS Academy Cloud Architecting](https://www.credly.com/badges/664cea6f-9ecc-48d9-88e4-53ae85733048/public_url)**  
-  *A deep dive look into AWS services with sandbox exercises and architectural patterns, featuring real-world study cases and practical design scenarios.*
+  *A deep dive into AWS services with sandbox exercises and architectural patterns, featuring real-world study cases.*
 
 - 🔐 **[AWS Academy Cloud Security Builder](https://www.credly.com/badges/0a41abae-c7d4-4a31-8237-260270c60ba2/public_url)**  
   *Apply AWS security best practices on a deployed Application.*
